@@ -1,8 +1,8 @@
 # FindAIForMe / findaiforme
 
-**FindAIForMe**（[findaifor.me](https://findaifor.me/)）是一个独立的免费 / freemium AI 工具导航站 —— 轻量目录风格（类似 Toolify 的浅色目录体验，但与 Toolify **无关**）。按需求发现 AI 网站与工具，支持多语言浏览。
+**FindAIForMe**（[findaifor.me](https://findaifor.me/)）是一个独立的免费 / freemium AI 工具导航站 —— 浅色轻量目录风格。按需求发现 AI 网站与工具，支持多语言浏览。
 
-> Free / freemium AI tools directory. Independent light catalog. Not affiliated with Toolify.
+> Free / freemium AI tools directory. Independent light catalog by FindAIForMe.
 
 ## 链接 / Links
 

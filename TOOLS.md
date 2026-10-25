@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**9364** tools · generated 2026-10-24
+**9379** tools · updated 2026-10-25
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-25)
+
+- [Granola](https://www.granola.ai)
+- [Aider](https://aider.chat)
+- [Jan](https://jan.ai)
+- [GPT4All](https://www.nomic.ai/gpt4all)
+- [Litmaps](https://www.litmaps.com)
+- [Paperpal](https://paperpal.com)
+- [Scribe](https://scribe.com)
+- [Pixelcut](https://www.pixelcut.ai)
+- [Khroma](https://www.khroma.co)
+- [Cohere](https://cohere.com)
+- [Hume AI](https://www.hume.ai)
+- [Speechmatics](https://www.speechmatics.com)
+- [LLM7](https://llm7.io)
+- [Google Colab](https://colab.research.google.com)
+- [Cerebras Inference](https://www.cerebras.ai/inference)
 
 ## Image & Design / 图像与设计 (2037)
 
